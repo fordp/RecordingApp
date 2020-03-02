@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:fordp/RecordingApp.git",
   "author": "Glen Muras <gmuras@4wdsupacentre.com.au>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.0"
+  }
 }
