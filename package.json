@@ -1,0 +1,8 @@
+{
+  "name": "RecordingApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fordp/RecordingApp.git",
+  "author": "Glen Muras <gmuras@4wdsupacentre.com.au>",
+  "license": "MIT"
+}
